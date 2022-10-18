@@ -26,3 +26,6 @@ examples/training_logs
 
 # virtual environment
 venv
+
+# VScode
+*.code-workspace
